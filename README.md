@@ -5,7 +5,6 @@ Skyguard detects aviation operation risks from event text. It extracts multiple 
 
 The system classifies risk levels and generates tailored notification drafts for three audiences: internal operators, airport coordinators and passengers.
 
-> Important: This system is only for decision support. All safety-critical operational decisions, such as flight dispatch and release, must be confirmed by qualified aviation staff.
 
 ## Dependencies
 - Python 3.10+
